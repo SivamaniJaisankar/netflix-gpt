@@ -2,6 +2,9 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Routing of App
+- SignIn/SignUp Form
 
 # Features
 
@@ -18,3 +21,10 @@
 - NetflixGPT
   - Search Bar
   - Movie Suggestions
+
+
+
+
+
+
+
