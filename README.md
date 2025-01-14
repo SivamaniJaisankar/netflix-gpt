@@ -4,7 +4,22 @@
 - Configured TailwindCSS
 - Header
 - Routing of App
-- SignIn/SignUp Form
+- Worked on SignIn/SignUp Form
+- Implemented Form Validation
+- Used useRef Hook to hold values for name, email and password
+- Worked on Browse Page Setup
+- Firebase Setup
+- Create SignUp & User Account
+- Created Redux Store with userSlice
+- Implemented Sign out
+- BugFix: if the user is not logged in Redirect /browse to Login Page and vice-vers
+- Registered with TMDB API & create an app & get access token
+- Created movieSlice
+- Created Custom Hook for now playing, popular and top rated movies
+- Updated movie data in store
+- Worked on Primary Container to autoplay trailer and to display movie title & description
+- Worked on Secondary Container to display movie list in cards
+
 
 # Features
 
